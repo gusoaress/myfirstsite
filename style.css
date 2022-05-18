@@ -1,0 +1,50 @@
+body {
+    background: black;
+}
+
+#title, .subtitle, .posttitle {
+    color: white;
+}
+
+.posttitle {
+    color: purple;
+    font-size: 20px;
+    font-style: bold;
+    margin: 0;
+}  
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.post { 
+    background: white;
+    padding: 15px; 
+    border:  3px solid #000;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.content {
+    color: #000; 
+    margin: 0;
+    margin-bottom: 15px; 
+}
+
+.post_header {
+    height: 95%;
+    width: 95%;
+    margin-bottom: 15px; 
+}
+
+.photo {
+    height: 20%;
+    width: 20%;
+    border: 1px solid #000;
+    border-radius: 50%;
+}
+
+.footer {
+    color: white;
+}

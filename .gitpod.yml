@@ -1,0 +1,11 @@
+
+vscode:
+  extensions:
+    - PKief.material-icon-theme
+    - HookyQR.beautify
+    - formulahendry.auto-rename-tag
+    - esbenp.prettier-vscode
+    - ritwickdey.LiveServer
+    - ms-vscode.live-server
+    - pinage404.front-end-extension-pack
+    - auchenberg.vscode-browser-preview
