@@ -1,2 +1,2 @@
-# myfristsite
+# myfirstsite
 On-line site curriculum 
